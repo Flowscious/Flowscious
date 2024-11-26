@@ -1,6 +1,8 @@
 # Hello! 👋
 
-    This GitHub account showcases my ongoing personal projects. I use Git, but I don't use GitHub for my personal closed-source projects. If I ever release the source code for these projects, this is the place where I will share the code.
+    This GitHub account showcases my ongoing personal projects. I use Git, but I don't use GitHub 
+    for my personal closed-source projects. If I ever release the source code for these projects, 
+    this is the place where I will share the code.
 
 ## Ongoing Projects
 
