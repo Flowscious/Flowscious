@@ -17,7 +17,7 @@ I've created repositories for some of my ongoing projects. Many of these reposit
 - 🪕 [Music](#music)
 - 🎨 [Art](#art)
 
-## My story 🍃
+## My Story 🍃
 
 Before discovering coding, I composed and produced music by playing instruments, designing sounds, sampling audio, and building digital instruments. My focus was music and art, but as I got more interested in computers, I was introduced to `PineScript`. I dedicated my life to it, built my own trading indicators, and became a profitable scalping trader. Unfortunately though, I was cornered by Swedish tax laws and had to pay around **115%** in taxes. 
 
